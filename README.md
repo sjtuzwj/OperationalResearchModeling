@@ -6,6 +6,6 @@
 - 决策论： 不确定型/确定型/风险型决策矩阵运算
 
 ## Reference
-- Algorithm 4rd
+- Algorithm 4th
 - Wiki
 - SimPy Doc
